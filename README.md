@@ -1,2 +1,2 @@
-# CraftPlural
-Plural - Just a simple plugin
+# Plural
+Just a simple plugin for Craft CMS
