@@ -1,5 +1,5 @@
 # Plural
-Just a simple plugin for Craft CMS
+Simple plural plugin for Craft
 
 ## Installation
 
