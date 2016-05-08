@@ -1,0 +1,13 @@
+[
+	{
+		"version": "1.0.0",
+		"downloadUrl": "https://github.com/WilliamIsted/CraftPlural/archive/1.0.0.zip",
+		"date": "2016-05-08T14:10:00-00:00",
+		"notes": [
+			"[Added] Initial release.",
+			"[Added] Added usage reminder text tp description on Plugins page.",
+			"[Added] Added 'View Documentation' link now shown on Plugins page.",
+			"[Added] Craft will notify you of updates available for this plugin from the update page.",
+		]
+	}
+]
